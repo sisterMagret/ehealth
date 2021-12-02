@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'crispy_forms',
     "crispy_tailwind",
     'users',
-    'agents','reports',
+    'agents',
     'theme'
 ]
 
